@@ -1,6 +1,6 @@
 using FluentAssertions;
 
-namespace POCTemplate.Tests;
+namespace POCEventStoreDb.Tests;
 
 public class UnitTest1
 {

@@ -1,4 +1,4 @@
-﻿namespace POCTemplate;
+namespace POCEventStoreDb;
 
 internal static class Program
 {
