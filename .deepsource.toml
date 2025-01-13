@@ -1,8 +1,9 @@
 version = 1
 
-[[analyzers]]
-name = "test-coverage"
-enabled = true
+# Restore this section when add deep-source.yml workflow
+# [[analyzers]]
+# name = "test-coverage"
+# enabled = true
 
 [[analyzers]]
 name = "secrets"
